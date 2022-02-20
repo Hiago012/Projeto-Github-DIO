@@ -1,0 +1,2 @@
+O git é um sistema de versionamento distribuído.
+O github é um serviço de armazenamento remoto de repositórios Git.
